@@ -156,6 +156,7 @@ Total Fatalites | Name
 <br>
 
 __Question Six__: What was the biggest fire (according to acres burned by each year)? Include name, acres burned, and county.
+
 Process:
 1. On the original data copy create a filter.
 2. Filter by 'archive year' 
