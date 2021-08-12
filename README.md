@@ -239,3 +239,13 @@ Title | Contact Information
 Statewide Coordinating Team Lead & Assistant Professor of Fire Sciences, UC Berkeley |<ul><li>(510) 642-7304 (office)</li><li>sstephens@berkeley.edu</li></ul> 
 
 I would interview Scott because he is a professor that does not have a regional focus. He is the lead in a statewide fire coordinating team. He would have a much better idea in how the intensity of fires have changed over the years, and what could be the cause behind these changes for the state as a whole. 
+
+###### Thom Porter 
+
+!['Thom','A pic of Thom the big cheese'](/thomporter.jpg)
+
+Title | Contact Information
+---------|----------------
+Fire Chief/Director California Department of Forestry and Fire Protection |<ul><li>(916)653-7772 (office)</li><li>2251 Harvard Street Sacramento CA 95815</li></ul> 
+
+I would interview Thom Porter because he is the man in charge of the California Department of Forestry and Fire Protection. He would be aware, more intricately, of what is happening in CA in terms of wildfires and how they have decreased. Additionally his expertise in any plans being acted out would let us know if this is a man made decrease, or a natural decrease based on climate. 
