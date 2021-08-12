@@ -19,10 +19,10 @@ _I was not able to find anything wrong with the data at **First**_
 ### Part Two: The Questions and Answers 
 __Question One__: What is the year with the most fires? <br>
 Process:
-1. On original page (without having anything selected) go to data and select create pivot table in a new sheet.
-2. Set rows as archive year. 
-3. Set values as archive year as well.
-4. On values change summarize by to COUNTA.
+1. On original page (without having anything selected) go to data and select 'create pivot table' in a new sheet.
+2. Set rows as 'archive year'. 
+3. Set values as 'archive year' as well.
+4. On values change 'summarize by' to COUNTA.
 5. This will provide a count of how many fires there were in any given year. 
 6. From there you simply look at all the 7 years and determine which one has the most fires.
 
@@ -34,15 +34,15 @@ Answer:
 
 __Question Two__: What are the top 5 counties with the most fires in all years? <br>
 Process: 
-1. On original page (without having anything selected) go to data and select create pivot table in a new sheet.
-2. Set rows as counties.
-3. Set values as archive year.
-4. On values change summarize by to COUNTA.
+1. On original page (without having anything selected) go to data and select 'create pivot table' in a new sheet.
+2. Set rows as 'counties'.
+3. Set values as 'archive year'.
+4. On values change 'summarize by' to COUNTA.
 5. This will give you the count of every fire for all 7 years for each county.
 6. Copy the pivot table excluding the last line which is the grand total. 
-7. On a new sheet paste special -> paste values only or command + shift + v. 
+7. On a new sheet right click on to 'paste special' -> 'paste values only' or command + shift + v. 
 8. This will paste only the values and not the formatting of the pivot table. 
-9. Highlight the 1st row which should be the headers of each column and go to view -> freeze -> 1 row.
+9. Highlight the 1st row which should be the headers of each column and go to 'view' -> 'freeze' -> '1 row'.
 10. From there sort column b or COUNTA of Archive year Z -> A
 11. This will sort both colum's from the highest to lowest which will give you the answer. 
 
@@ -59,9 +59,9 @@ Shasta | 64
 __Question Three__: How many acres were burned during the 2015 year? <br>
 Process:
 1. On the main page create a filter.
-2. Filter by archive year 2015.
+2. Filter by 'archive year' and uncheck all years except 2015.
 3. This will only show the fires for the year 2015.
-4. Higlight row B or the Acres Burned Column.
+4. Higlight row B or the 'Acres Burned' Column.
 5. This will give you a little drop down menu at the bottom of the page, next to the Explore button.
 6. If it is not already on sum you can click on the dropdown menu and select sum to get the sum of all acres burned for 2015. 
 
@@ -72,10 +72,10 @@ Acres burned in 2015|574,503
 
 __Question Four__: What is the sum of acres burned for each year?
 Process:
-1. On original page (without having anything selected) go to data and select create pivot table in a new sheet.
-2. Set rows as archive year.
-3. Set values as acres burned.
-4. On values change summarize by to SUM.
+1. On original page (without having anything selected) go to data and select 'create pivot table' in a new sheet.
+2. Set rows as 'archive year'.
+3. Set values as 'acres burned'.
+4. On values change 'summarize by' to SUM.
 5. This will give you a count of all acres burned by year.
 
 Answer:
@@ -99,12 +99,35 @@ __Question Five__: Which fire had the most fatalities?
 Process:
 1. Sort Fatalities column in descending order from Z -> A.
 2. Notice that there are some repeated numbers.
-3. Do some further digging and find that there are copies of the same rows. 
-4. There were only slight variations in the information being duplicated so they need to be removed.
+3. Do some further digging and find that there are duplicates of some rows. 
+4. Even though there were only slight variations in the information they need to be removed.
 5. To find all the duplicates in the data make a conditional format. 
-6. Highlight all of column UniqueId. This column provides the unique Id given to every fire which will help find the duplicates.
-7. While highlighting column go to Format -> Conditional Formatting
-8. This will bring up a 
+6. Highlight all of column 'UniqueId'. This column provides the unique ID given to every fire which will help find the duplicates.
+7. While highlighting column go to 'Format' -> 'Conditional Formatting'.
+8. This will bring up a window.
+9. The first item 'Apply to range' should already be filled out with the range you highlighted.
+10. Click on the '+ Add another rule' option in menu.
+11. Change 'Format Cells if...' to 'Custom formula is'.
+12. Enter the duplicate check formula which for our data is “=countif($A$2:$A$15,A2)>1”. 
+13. In 'Formatting Style' change the bucket icon to yellow so that it will highlight the duplicates.
+14. Hit 'done' to return a 'true/false' response.
+15. This will highlight all the duplicates in the data set by their ID number.
+16. Make a copy of this data so as to be able to refer to the original one at any time. 
+17. In the copy create a filter.
+18. Filter the 'UniqueId' column by 'Filter by color' -> 'Fill color' -> yellow.
+19. This will only show the duplicates which had been highlighted by the conditional formatting.
+20. Select all of the values and delete them in the copy set.
+21. Create a pivot table from the copy of the data set.
+22. Set rows as 'UniqueId'.
+23. Set values as 'Fatalities'
+24. On values change 'summarize by' to SUM.
+25. While this gave us the fires with the most fatalities. We are unable to further identify them besides their Unique ID. So we need to join this information to the original data set.
+26. To do this we first need to copy the pivot table information onto another sheet. 
+27. Copy the pivot table excluding the last line which is the grand total. 
+28. On a new sheet right click on to 'paste special' -> 'paste values only' or command + shift + v. 
+29. This will paste only the values and not the formatting of the pivot table. 
+30. Highlight the 1st row which should be the headers of each column and go to 'view' -> 'freeze' -> '1 row'.
+31. 
 
 
 
