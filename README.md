@@ -1,7 +1,7 @@
 # J124 Final Project: California Wildfires
 ## By Ashley Dionicio
 
-### Part One: The Data 
+### Part One: Clean Your Data 
 For my project I chose to use the California Wildfires Data. It includes information from 2013 through 2020. 
 Link for the data on [Kaggle](https://www.kaggle.com/ananthu017/california-wildfire-incidents-20132020)
 * Disclaimer: throughout this file I will be using wildfires and fire interchangeably
@@ -16,7 +16,7 @@ _I was not able to find anything wrong with the data at **First**_
 
 <br>
 
-### Part Two: The Questions and Answers 
+### Part Two: Analyze Your Data and Document The Process
 __Question One__: What is the year with the most fires? <br>
 Process:
 1. On original page (without having anything selected) go to data and select 'create pivot table' in a new sheet.
@@ -205,4 +205,16 @@ Acres Burned | Fire Name | County
 Acres Burned | Fire Name | County
 -------------|-----------|-------
 77758	| Kincade Fire |	Sonoma
+
+
+<br>
+
+### Part Three: Analyze the Story
+
+
+__Summary of the Story__
+
+California is notorious for its fires, the often draught ridden state is a magnet for them. Between 2013 and 2019 California’s rates of fires steadily increased until its apex in 2018. While it didn’t have the most amount of fires that year, it did have the worst. In 2018 over 3,358,049 acres of land were burned away. Compared to the second highest year in this 7 year period 2017 only had 1,793,915 acres burned by fires. That’s a difference of about 1.5 million acres. However, the very next year (2019) only had 285,708 acres burned by fire. From one year to the other, there was an approximately 3 million acre decrease that was burned by fires in California. So what happened? Was it a policy we implemented, or maybe we got more rain that year, or was it just luck? Whatever it may be it is important to understand so that we learn from it and maybe implement it in the future. 
+
+__Contact Information for Experts__
 
