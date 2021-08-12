@@ -232,16 +232,10 @@ I would interview Lenya because she is a fire advisor  that specializes in north
 
 ###### Scott Stephens 
 
-!['Pic of Scott','picture of Scott Stephens a fire expert'](/image-asset 2.jpeg)
-
-image-asset 2.jpeg
-
-
-!['SStephens','Pic of Scott a fire expert'](/image-asset 2.jpeg)
-
-!['Pic of Lenya','picture of Lenya Quinn Davison a fire exper'](/image-asset 2.jpeg)
-
+!['SStephens','Pic of Scott a fire expert'](/CmonScott.jpeg)
 
 Title | Contact Information
 ---------|----------------
 Statewide Coordinating Team Lead & Assistant Professor of Fire Sciences, UC Berkeley |<ul><li>(510) 642-7304 (office)</li><li>sstephens@berkeley.edu</li></ul> 
+
+I would interview Scott because he is a professor that does not have a regional focus. He is the lead in a statewide fire coordinating team. He would have a much better idea in how the intensity of fires have changed over the years, and what could be the cause behind these changes for the state as a whole. 
