@@ -265,3 +265,11 @@ Heatwaves are periods of unusually hot weather that increase the risks of wildfi
 [California Water Supply Outlooks](https://www.nrcs.usda.gov/wps/portal/nrcs/detail/ca/snow/waterproducts/?cid=stelprdb1243122)
 
 This website ran by the Natural Resources Conservation Service of California and the United States Department of Agriculture provides the water supply outlooks for the state of California 5 times per year, from 2014 through 2021. This information could give us more information about the weather in CA and if more “wet” seasons beget less wildfires, or if a more “dry” seasons cause an increase in rates of wildfires. I would use this source to match it against the information for 2017, 2018, and 2019. 
+
+<br>
+
+### Part Four: Data Visualization
+
+##### data for 2018 
+
+!['2018 data','A picture of a chloropleth map of the amount of acres burned in CA by county in 2018'](/https://github.com/adion05/J124-Final-Project-/blob/main/Ot4Vm-acres-burned-in-california-by-county-in-2018-br-.png)
