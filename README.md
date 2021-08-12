@@ -153,7 +153,56 @@ Total Fatalites | Name
 85 | Camp Fire
 44 | Border 10 Fire
 12 | Jerusalem Fire
+<br>
+
+__Question Six__: What was the biggest fire (according to acres burned by each year)? Include name, acres burned, and county.
+Process:
+1. On the original data copy create a filter.
+2. Filter by 'archive year' 
+3. Sort Z -> A for 'acres burned'
+        1. This will give you the biggest fire according to acres burned.
+
+5. Copy the 'acres burned', 'name' and 'county'
+6. Repeat for each year.
+
+Answer:
+
+*2013*
+Acres Burned | Fire Name | County
+-------------|-----------|-------
+257314 | Rim Fire | Tuolumne
+
+*2014*
+Acres Burned | Fire Name | County
+-------------|-----------|-------
+97717	| King Fire |	El Dorado
+
+*2015*
+Acres Burned | Fire Name | County
+-------------|-----------|-------
+151623 |	Rough Fire |	Fresno
 
 
+*2016*
+Acres Burned | Fire Name | County
+-------------|-----------|-------
+132127	| Soberanes Fire	| Monterey
 
+
+*2017*
+Acres Burned | Fire Name | County
+-------------|-----------|-------
+281893	| Thomas Fire	| Ventura
+
+
+*2018*
+Acres Burned | Fire Name | County
+-------------|-----------|-------
+410203	| Ranch Fire (Mendocino Complex) |	Mendocino
+
+
+*2019*
+Acres Burned | Fire Name | County
+-------------|-----------|-------
+77758	| Kincade Fire |	Sonoma
 
