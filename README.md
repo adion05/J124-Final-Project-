@@ -1,19 +1,25 @@
-# J124-Final-Project
-## California Wildfires 
-### by Ashley Dionicio
-Step 1: create the githib file 
-Step 2: navigate to the data page and download the file
-Step 3: create a google sheets document and upload the file 
-Step 4: clean the data information
-Ste5 make questions 
-question one 
+# J124 Final Project: California Wildfires
+## By Ashley Dionicio
 
-From 2013-2020 what is the year with the most fires? 
-Answer 
- 
- step 1 create a pivot table from the main data 
- rename tab as fires per year
- rows is archive year to get the year
- value becomes counta of archive year to find how many fires occured in each year 
- from there we can see that 2017 was the worst with 438 fires 
- 
+### Part One: The Data 
+For my project I chose to use the California Wildfires Data. It includes information from 2013 through 2020. 
+Link for the data on [Kaggle](https://www.kaggle.com/ananthu017/california-wildfire-incidents-20132020)
+* Disclaimer: throughout this file I will be using wildfires and fire interchangeably
+
+
+**Getting Started**
+1. Download the Kaggle data as a csv file. 
+2. Open a google sheets document and import the data. 
+3. Using pivot tables, the refine tool, and sorting clean up the data provided. <br> 
+
+_I was not able to find anything wrong with the data at **First**_ 
+
+<br>
+
+### Part Two: The Questions and Answers 
+__Question One__: What is the year with the most fires? <br>
+Process:
+1. On original page (without having anything selected) go to data and select create pivot table in a new sheet
+2. Set rows as archive year. 
+3. Set 
+4. 
