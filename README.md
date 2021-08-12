@@ -62,9 +62,8 @@ Shasta | 64
 __Question Three__: How many acres were burned during the 2015 year? <br>
 Process:
 1. On the main page create a filter.
-2. Filter by 'archive year' and uncheck all years except 2015.
-    1.This will only show the fires for the year 2015.
-    
+2. Filter by 'archive year' and uncheck all years except 2015. This will only show the fires for the year 2015.
+  
 3. Higlight row B or the 'Acres Burned' Column.
     1. This will give you a little drop down menu at the bottom of the page, next to the Explore button.
     
