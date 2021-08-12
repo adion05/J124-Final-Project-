@@ -270,6 +270,15 @@ This website ran by the Natural Resources Conservation Service of California and
 
 ### Part Four: Data Visualization
 
-##### data for 2018 
+#### Data For 2018 
 
-!['2018 data','A picture of a chloropleth map of the amount of acres burned in CA by county in 2018'](/https://github.com/adion05/J124-Final-Project-/blob/main/Ot4Vm-acres-burned-in-california-by-county-in-2018-br-.png)
+This map shows the amount of acres burned in California by county for the year [2018](//www.datawrapper.de/_/Ot4Vm/) 2018 saw one of the worst fire years in California history. 3,358,049 acres of land were burned away in this year.
+
+!['2018 data','A picture of a chloropleth map of the amount of acres burned in CA by county in 2018'](/Data2018.png)
+
+#### Data for 2019
+
+This map shows the amount of acres burned in California by county for the [2019](//www.datawrapper.de/_/bB1AX/) year. This year saw a significant decrease in acres burned by wildfires with only 285,708 acres burned by fire. 
+
+!['2019 data','A picture of a chloropleth map of the amount of acres burned in CA by county in 2019'](/Data2019.png)
+
