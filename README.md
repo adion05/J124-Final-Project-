@@ -26,6 +26,8 @@ Process:
     1. This will provide a count of how many fires there were in any given year.
 5. From there you simply look at all the 7 years and determine which one has the most fires.
 
+!['Q1','Picture for question 1 that describes answer'](/Q1.png)
+
 Answer:
 
 2017| 438
@@ -40,6 +42,8 @@ Process:
 4. On values change 'summarize by' to COUNTA.
     1. This will give you the count of every fire for all 7 years for each county.
    
+!['Q2.1','Picture for question 2 that describes answer'](/Q2.1.png)
+   
 5. Copy the pivot table excluding the last line which is the grand total. 
 6. On a new sheet right click on to 'paste special' -> 'paste values only' or command + shift + v. 
     1. This will paste only the values and not the formatting of the pivot table. 
@@ -48,6 +52,7 @@ Process:
 8. From there sort column b or COUNTA of Archive year Z -> A
     1. This will sort both colum's from the highest to lowest which will give you the answer. 
     
+ !['Q2.2','Picture for question 2 that describes answer'](/Q2.2.png)
 
 Answer:
 County | # of fires
@@ -64,10 +69,14 @@ Process:
 1. On the main page create a filter.
 2. Filter by 'archive year' and uncheck all years except 2015. This will only show the fires for the year 2015.
   
+!['Q3','Picture for question 3 that describes answer'](/Q3.png) 
+ 
 3. Higlight row B or the 'Acres Burned' Column.
     1. This will give you a little drop down menu at the bottom of the page, next to the Explore button.
     
 4. If it is not already on sum you can click on the dropdown menu and select sum to get the sum of all acres burned for 2015. 
+
+!['Q3.2','Picture for question 3.2 that describes answer'](/Q3.2.png)
 
 Answer:
 Acres burned in 2015|574,503
@@ -81,7 +90,8 @@ Process:
 3. Set values as 'acres burned'.
 4. On values change 'summarize by' to SUM.
     1. This will give you a count of all acres burned by year.
-    
+
+!['Q4','Picture for question 4 that describes answer'](/Q4.png)
 
 Answer:
 
@@ -111,6 +121,8 @@ Process:
 7. While highlighting column go to 'Format' -> 'Conditional Formatting'.
     1. This will bring up a window.
 
+!['Q5','Picture for question 5 that describes answer'](/Q5.png)
+
 9. The first item 'Apply to range' should already be filled out with the range you highlighted.
 10. Click on the '+ Add another rule' option in menu.
 11. Change 'Format Cells if...' to 'Custom formula is'.
@@ -138,12 +150,16 @@ Process:
 
 30. Sort both 'UniqueId' from the sheet with the fatalities and the copy of the data sheet from A -> Z
 31. On the copy data sheet create a blank column next to UniqueId where we can use vlookup.
-32. Type in '=VLOOKUP(A2,Sheet1!A725:B2333,2,false)'
+
+!['Q5.2','Picture for question 5.2 that describes answer'](/Q5.2.png)
+
+33. Type in '=VLOOKUP(A2,Sheet1!A725:B2333,2,false)'
     1. A2 is the values you are searching for 
     2. Sheet1!A725:B2333 is the range of what we are importing from
     3. 2 is the column being matched from
     4. and false indicates that the column is unsorted
 34. Now all you need to do is sort column 'Total Fatalities' from Z -> A to get the fires with the highest fatalities. 
+
 
 Answer:
 
@@ -159,11 +175,16 @@ __Question Six__: What was the biggest fire (according to acres burned by each y
 Process:
 1. On the original data copy create a filter.
 2. Filter by 'archive year' 
-3. Sort Z -> A for 'acres burned'
+
+!['Q6.1','Picture for question 6 taht describes answer'](/Q6.png)
+
+4. Sort Z -> A for 'acres burned'
         1. This will give you the biggest fire according to acres burned.
 
 5. Copy the 'acres burned', 'name' and 'county'
 6. Repeat for each year.
+
+!['Q6.2','Picture for question 6.2 that describes answer'](/Q6.2.png)
 
 Answer:
 
