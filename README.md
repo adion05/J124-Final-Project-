@@ -67,7 +67,45 @@ Process:
 
 Answer:
 Acres burned in 2015|574,503
-----|---- 
+----|----
+<br>
+
+__Question Four__: What is the sum of acres burned for each year?
+Process:
+1. On original page (without having anything selected) go to data and select create pivot table in a new sheet.
+2. Set rows as archive year.
+3. Set values as acres burned.
+4. On values change summarize by to SUM.
+5. This will give you a count of all acres burned by year.
+
+Answer:
+
+ArchiveYear	|SUM of AcresBurned
+------------|------------------
+2013 | 527,745
+2014 | 448,715
+2015 | 574,503
+2016 | 505,927
+2017 | 1,793,915
+2018 | 3,358,049
+2019 | 285,708
+Grand Total | 7,494,562
+
+This also confirms the previous answer we got for question three
+
+<br>
+
+__Question Five__: Which fire had the most fatalities? 
+Process:
+1. Sort Fatalities column in descending order from Z -> A.
+2. Notice that there are some repeated numbers.
+3. Do some further digging and find that there are copies of the same rows. 
+4. There were only slight variations in the information being duplicated so they need to be removed.
+5. To find all the duplicates in the data make a conditional format. 
+6. Highlight all of column UniqueId. This column provides the unique Id given to every fire which will help find the duplicates.
+7. While highlighting column go to Format -> Conditional Formatting
+8. This will bring up a 
+
 
 
 
