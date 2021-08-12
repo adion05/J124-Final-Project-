@@ -216,5 +216,32 @@ __Summary of the Story__
 
 California is notorious for its fires, the often draught ridden state is a magnet for them. Between 2013 and 2019 California’s rates of fires steadily increased until its apex in 2018. While it didn’t have the most amount of fires that year, it did have the worst. In 2018 over 3,358,049 acres of land were burned away. Compared to the second highest year in this 7 year period 2017 only had 1,793,915 acres burned by fires. That’s a difference of about 1.5 million acres. However, the very next year (2019) only had 285,708 acres burned by fire. From one year to the other, there was an approximately 3 million acre decrease that was burned by fires in California. So what happened? Was it a policy we implemented, or maybe we got more rain that year, or was it just luck? Whatever it may be it is important to understand so that we learn from it and maybe implement it in the future. 
 
+<br>
+
 __Contact Information for Experts__
 
+###### Lenya Quinn-Davidson 
+
+!['Pic of Lenya','picture of Lenya Quinn Davison a fire exper'](/image-asset.jpeg)
+
+Title | Contact Information
+---------|----------------
+Northern California Coordinator Area Fire Advisor, University of California Cooperative Extension |<ul><li>(707) 445-7351 (office)</li><li>(707) 272-0637 (cell)</li><li>lquinndavidson@ucanr.edu</li></ul> 
+
+I would interview Lenya because she is a fire advisor  that specializes in northern CA. Since the top 5 counties (of acres burned in 2018) were in Northern CA talking to her would help see if there were any changes in NorCal that she noticed that could’ve led to this decrease in fire severity that we saw in 2019. 
+
+###### Scott Stephens 
+
+!['Pic of Scott','picture of Scott Stephens a fire expert'](/image-asset 2.jpeg)
+
+image-asset 2.jpeg
+
+
+!['SStephens','Pic of Scott a fire expert'](/image-asset 2.jpeg)
+
+!['Pic of Lenya','picture of Lenya Quinn Davison a fire exper'](/image-asset 2.jpeg)
+
+
+Title | Contact Information
+---------|----------------
+Statewide Coordinating Team Lead & Assistant Professor of Fire Sciences, UC Berkeley |<ul><li>(510) 642-7304 (office)</li><li>sstephens@berkeley.edu</li></ul> 
