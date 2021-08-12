@@ -75,7 +75,7 @@ Acres burned in 2015|574,503
 ----|----
 <br>
 
-__Question Four__: What is the sum of acres burned for each year?
+__Question Four__: What is the sum of acres burned for each year? <br>
 Process:
 1. On original page (without having anything selected) go to data and select 'create pivot table' in a new sheet.
 2. Set rows as 'archive year'.
@@ -101,7 +101,7 @@ This also confirms the previous answer we got for question three
 
 <br>
 
-__Question Five__: Which fire had the most fatalities? 
+__Question Five__: Which fire had the most fatalities? <br>
 Process:
 1. Sort Fatalities column in descending order from Z -> A.
 2. Notice that there are some repeated numbers.
