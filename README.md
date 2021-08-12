@@ -249,3 +249,19 @@ Title | Contact Information
 Fire Chief/Director California Department of Forestry and Fire Protection |<ul><li>(916)653-7772 (office)</li><li>2251 Harvard Street Sacramento CA 95815</li></ul> 
 
 I would interview Thom Porter because he is the man in charge of the California Department of Forestry and Fire Protection. He would be aware, more intricately, of what is happening in CA in terms of wildfires and how they have decreased. Additionally his expertise in any plans being acted out would let us know if this is a man made decrease, or a natural decrease based on climate. 
+
+<br>
+
+__Additional Sources__
+
+###### Source One
+
+[Rising trends in Heatwave Metrics Across Southern California](https://doi.org/10.1029/2020EF001480)
+
+Heatwaves are periods of unusually hot weather that increase the risks of wildfires, extreme heat, and pollution. These heatwaves can have devastating effects to both the human population and the planet. This study seeks to look at how different factors might influence the intensity and probability of heatwaves. I would like to use it because it would help to inform why the intensity of wildfires has increased. 
+
+###### Source Two
+
+[California Water Supply Outlooks](https://www.nrcs.usda.gov/wps/portal/nrcs/detail/ca/snow/waterproducts/?cid=stelprdb1243122)
+
+This website ran by the Natural Resources Conservation Service of California and the United States Department of Agriculture provides the water supply outlooks for the state of California 5 times per year, from 2014 through 2021. This information could give us more information about the weather in CA and if more “wet” seasons beget less wildfires, or if a more “dry” seasons cause an increase in rates of wildfires. I would use this source to match it against the information for 2017, 2018, and 2019. 
