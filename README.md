@@ -282,3 +282,8 @@ This map shows the amount of acres burned in California by county for the [2019]
 
 !['2019 data','A picture of a chloropleth map of the amount of acres burned in CA by county in 2019'](/Data2019.png)
 
+<br>
+
+In the wise words of The Looney Tunes:
+
+> Thats all Folks! <br>
